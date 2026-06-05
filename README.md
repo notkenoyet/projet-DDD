@@ -90,12 +90,12 @@ Puis ouvrir : [http://localhost:8050](http://localhost:8050)
 
 | Phase | Description | Statut |
 |---|---|---|
-| 1 | Définition du problème & KPIs 
-| 2 | Collecte & Audit des données 
-| 3 | EDA & Analyse statistique 
-| 4 | Modélisation prédictive & SHAP 
-| 5 | Dashboard décisionnel (5 vues)
-| 6 | Décision, A/B Testing & Impact 
+| 1 | Définition du problème & KPIs | ✅ |
+| 2 | Collecte & Audit des données | ✅ |
+| 3 | EDA & Analyse statistique | ✅ |
+| 4 | Modélisation prédictive & SHAP | ✅ |
+| 5 | Dashboard décisionnel (5 vues)| ✅ |
+| 6 | Décision, A/B Testing & Impact | ✅ |
 
 ---
 
