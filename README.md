@@ -43,7 +43,7 @@ DDDM_Projet/
 
 ### 2. Cloner le dépôt
 ```bash
-git clone https://github.com/<votre-repo>/DDDM_Projet.git
+git clone https://github.com/----/DDDM_Projet.git
 cd DDDM_Projet
 ```
 
