@@ -1,17 +1,4 @@
-# 📊 DDDM Projet — E-Commerce : Prédiction du Risque d'Abandon de Panier
-
-**Module :** Data-Driven Decision Making  
-**École :** ENSIAS — Université Mohammed V de Rabat  
-**Filière :** GL2 — 2025/2026  
-**Deadline :** 07 Juin 2026
-
----
-
-## 🎯 Question décisionnelle
-
-> *Quels clients sont à risque d'abandonner leur panier dans les 24h, et quel levier d'action (relance email, remise, retargeting) maximise la conversion ?*
-
----
+# DDDM Projet — E-Commerce : Prédiction du Risque d'Abandon de Panier
 
 ## 🗂️ Architecture du projet
 
@@ -48,7 +35,7 @@ DDDM_Projet/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### 1. Prérequis
 - Python 3.10+
@@ -81,7 +68,7 @@ https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-cat
 
 ---
 
-## 🚀 Lancement
+##  Lancement
 
 ### Notebook (analyse complète phases 1–6)
 ```bash
@@ -99,20 +86,20 @@ Puis ouvrir : [http://localhost:8050](http://localhost:8050)
 
 ---
 
-## 📋 Phases du projet
+##  Phases du projet
 
 | Phase | Description | Statut |
 |---|---|---|
-| 1 | Définition du problème & KPIs | ✅ |
-| 2 | Collecte & Audit des données | ✅ |
-| 3 | EDA & Analyse statistique | ✅ |
-| 4 | Modélisation prédictive & SHAP | ✅ |
-| 5 | Dashboard décisionnel (5 vues) | ✅ |
-| 6 | Décision, A/B Testing & Impact | ✅ |
+| 1 | Définition du problème & KPIs 
+| 2 | Collecte & Audit des données 
+| 3 | EDA & Analyse statistique 
+| 4 | Modélisation prédictive & SHAP 
+| 5 | Dashboard décisionnel (5 vues)
+| 6 | Décision, A/B Testing & Impact 
 
 ---
 
-## 📦 Livrables
+##  Livrables
 
 | Livrable | Fichier |
 |---|---|
@@ -124,7 +111,7 @@ Puis ouvrir : [http://localhost:8050](http://localhost:8050)
 
 ---
 
-## 📊 Résultats clés
+##  Résultats clés
 
 - **Taux d'abandon de panier détecté** : 71.9%
 - **Meilleur modèle** : Gradient Boosting — AUC-ROC ≈ 0.82
@@ -134,10 +121,9 @@ Puis ouvrir : [http://localhost:8050](http://localhost:8050)
 
 ---
 
-## 🧪 Stack technique
+##  Stack technique
 
 `Python 3.10` · `Pandas` · `Scikit-learn` · `SHAP` · `Plotly Dash` · `Scipy` · `Seaborn`
 
 ---
 
-*ENSIAS — GL2 · Module DDDM · 2025/2026*
